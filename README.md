@@ -10,12 +10,15 @@ The stock market performs better in 2017 than 2018. The average return rate for 
 
 Running time on my laptop with original script is around 0.43 seconds, and refactored code is 0.08 seconds. That is about 4.3 times faster.
 
-## 3. Summary:
-     1) What are the advantages or disadvantages of refactoring code?
+## 3. Summary
+### What are the advantages or disadvantages of refactoring code?
 
     The advantages for refactoring codes include: it simplified support and code updates since code is much cleaner; it saved time and money in the future, because it reduces the likelihood of errors in the future. It also reduces complexity for easier understanding, and makes the script easier to maintain. 
 
-     2) How do these pros and cons apply to refactoring the original VBA script?
+### How do these pros and cons apply to refactoring the original VBA script?
 
     The run time for the refactoring code is significantly reduced. The refactoring code also provides convience for future modifications. 
     The cons is refactoring code is more time consuming than original script.
+
+![VBA_Challenge_2017.png](https://github.com/yangya19/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018.png](https://github.com/yangya19/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
